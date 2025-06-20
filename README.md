@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-
-Am  albykamau/albykamau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <br>
- <h1 align="center">Hi 👋, I'm Albert Kamau</h1> 
+ <h1 align="center">I'm Albert Kamau</h1> 
 <h3 align="center">IoT & Embedded Systems Engineer</h3>
 
 <!-- 
