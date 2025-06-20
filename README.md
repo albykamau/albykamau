@@ -33,7 +33,7 @@ Profileviews & waketime
 </p> -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awstine&hide_progress=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awstine&hide_progress=true)
 <!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Belair)](https://github.com/awstine/github-readme-stats)
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awstine&show_icons=true&locale=en" alt="mwichabe" /></p>-->
